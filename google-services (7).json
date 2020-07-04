@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "327839796737",
+    "firebase_url": "https://firern-2417e.firebaseio.com",
+    "project_id": "firern-2417e",
+    "storage_bucket": "firern-2417e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327839796737:android:122958009f8bc7444c3a00",
+        "android_client_info": {
+          "package_name": "com.reactnativefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327839796737-m6pbl0ss4urjfoaqp9e5hvi4q19cbidi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFf_AYJQdMHhrjnrddNSHZeLiNmYGmzoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327839796737-m6pbl0ss4urjfoaqp9e5hvi4q19cbidi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "327839796737-mgu34cjbhs5vt4632hgnvqg42f6ph4gv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reactnativefirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
